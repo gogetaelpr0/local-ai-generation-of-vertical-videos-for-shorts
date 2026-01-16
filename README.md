@@ -6,7 +6,7 @@
 
   <br>
 
-  <a href="https://github.com/yourusername/shortlocal/releases/latest">
+  <a href="https://github.com/Peltludefine/local-ai-generation-of-vertical-videos-for-shorts/releases/tag/ShortLocal">
     <img src="https://img.shields.io/badge/Download%20v1.0-6366f1?style=for-the-badge&logo=github&logoColor=white" height="32">
   </a>
 
